@@ -1,0 +1,12 @@
+{
+    "android": {
+        "version": "1.58",
+        "message": "更新描述",
+        "url": "http://ilearning.foxconn.com:8081/pic/app/ilearning/Android/caa_edu_android_client_v1.57.apk"
+    },
+    "iOS": {
+        "version": "1.58",
+        "message": "",
+        "url": "itms-services:///?action=download-manifest&url=https://gitee.com/ming9719/iOSPublish/raw/master/manifest.plist"
+    }
+}
